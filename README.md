@@ -51,14 +51,6 @@
 
 ---
 
-## Статистика GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juic3-me&show_icons=true&hide_title=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juic3-me&layout=compact&theme=default)
-
----
-
 ## Связаться
 
 | Причина | Канал |
