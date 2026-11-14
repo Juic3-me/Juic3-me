@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="495px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="495px" fill="#f6f8fa" rx="15"/>
+<text fill="#bc4c00">
+<tspan x="15" y="30">                       __</tspan>
+<tspan x="15" y="50">                      /  /</tspan>
+<tspan x="15" y="70">                     /  /</tspan>
+<tspan x="15" y="90">                    /  /</tspan>
+<tspan x="15" y="110">                   /  /</tspan>
+<tspan x="15" y="130">      __________________________</tspan>
+<tspan x="15" y="150">    /            (__)          /|</tspan>
+<tspan x="15" y="170">   /                          / |</tspan>
+<tspan x="15" y="190">  /__________________________/  |</tspan>
+<tspan x="15" y="210">  |                          |  |</tspan>
+<tspan x="15" y="230">  |           \|/            |  |</tspan>
+<tspan x="15" y="250">  |        .-'''''-.         |  |</tspan>
+<tspan x="15" y="270">  |       /  .:::.  \        |  |</tspan>
+<tspan x="15" y="290">  |       |  :::::  |        |  |</tspan>
+<tspan x="15" y="310">  |       \  ':::'  /        |  |</tspan>
+<tspan x="15" y="330">  |       `-._____.-'        |  |</tspan>
+<tspan x="15" y="350">  |                          |  |</tspan>
+<tspan x="15" y="370">  |      J  U  I  C  E       |  |</tspan>
+<tspan x="15" y="390">  |      ~~~~~~~~~~~~~       |  |</tspan>
+<tspan x="15" y="410">  |       o r a n g e        |  |</tspan>
+<tspan x="15" y="430">  |        100% juice        | /</tspan>
+<tspan x="15" y="450">  |                          |/</tspan>
+<tspan x="15" y="470">  |__________________________|</tspan>
+</text>
+<text fill="#24292f">
+<tspan x="360" y="30"><tspan>juic3-me@github</tspan> <tspan class="cc">————————————————————————————————————————————</tspan></tspan>
+<tspan x="360" y="50"><tspan class="key">ОС</tspan>:<tspan class="cc" w="57"> ............................ </tspan><tspan class="value">Windows 11, iOS, Linux Mint</tspan></tspan>
+<tspan x="360" y="70"><tspan class="key">Возраст</tspan>:<tspan id="age_data_dots" class="cc" w="52"> ......................... </tspan><tspan id="age_data" class="value">20 лет, 0 месяцев, 0 дней</tspan></tspan>
+<tspan x="360" y="90"><tspan class="key">Работа</tspan>:<tspan class="cc" w="53"> ........................................ </tspan><tspan class="value">АО «МЕТЕОР»</tspan></tspan>
+<tspan x="360" y="110"><tspan class="key">Город</tspan>:<tspan class="cc" w="54"> ......................................... </tspan><tspan class="value">Новосибирск</tspan></tspan>
+<tspan x="360" y="130"><tspan class="key">IDE</tspan>:<tspan class="cc" w="56"> ............. </tspan><tspan class="value">VSCode 1.96.0, PyCharm (последняя версия)</tspan></tspan>
+<tspan x="360" y="170"><tspan class="key">Языки программирования</tspan>:<tspan class="cc" w="37"> ..... </tspan><tspan class="value">Python, HTML, CSS, JS (изучаю)</tspan></tspan>
+<tspan x="360" y="190"><tspan class="key">Языки общения</tspan>:<tspan class="cc" w="46"> ......................... </tspan><tspan class="value">английский, русский</tspan></tspan>
+<tspan x="360" y="230"><tspan class="key">Увлечения</tspan>:<tspan class="cc" w="50"> .................... </tspan><tspan class="value">графика, мобильные и ПК-игры</tspan></tspan>
+<tspan x="360" y="270"><tspan>- Контакты</tspan> <tspan class="cc">—————————————————————————————————————————————————</tspan></tspan>
+<tspan x="360" y="290"><tspan class="key">Почта</tspan>:<tspan class="cc" w="54"> .................................. </tspan><tspan class="value">vorcatch@gmail.com</tspan></tspan>
+<tspan x="360" y="310"><tspan class="key">Telegram</tspan>:<tspan class="cc" w="51"> .......................................... </tspan><tspan class="value">@vulp3s</tspan></tspan>
+<tspan x="360" y="330"><tspan class="key">Discord</tspan>:<tspan class="cc" w="52"> ........................................ </tspan><tspan class="value">lisyanskiy</tspan></tspan>
+<tspan x="360" y="370"><tspan>- Статистика GitHub</tspan> <tspan class="cc">————————————————————————————————————————</tspan></tspan>
+<tspan x="360" y="390"><tspan class="key">Репозитории</tspan>:<tspan id="repo_data_dots" class="cc" w="9"> ...... </tspan><tspan id="repo_data" class="value">0</tspan> {<tspan class="key">Участие</tspan>: <tspan id="contrib_data" class="value">0</tspan>} | <tspan class="key">Звёзды</tspan>:<tspan id="star_data_dots" class="cc" w="15"> ............ </tspan><tspan id="star_data" class="value">0</tspan></tspan>
+<tspan x="360" y="410"><tspan class="key">Коммиты</tspan>:<tspan id="commit_data_dots" class="cc" w="20"> ................. </tspan><tspan id="commit_data" class="value">0</tspan> | <tspan class="key">Подписчики</tspan>:<tspan id="follower_data_dots" class="cc" w="18"> ............... </tspan><tspan id="follower_data" class="value">0</tspan></tspan>
+<tspan x="360" y="430"><tspan class="key">Строк кода на GitHub</tspan>:<tspan id="loc_data_dots" class="cc" w="15"> ............ </tspan><tspan id="loc_data" class="value">0</tspan> ( <tspan id="loc_add" class="addColor">0</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del" class="delColor">0</tspan><tspan class="delColor">--</tspan> )</tspan>
+</text>
+</svg>
