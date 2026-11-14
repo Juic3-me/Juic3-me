@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="495px" font-size="16px">
 <style>
 @font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
@@ -9,7 +9,7 @@
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="495px" fill="#161b22" rx="15"/>
+<rect width="985px" height="495px" fill="#161b22" rx="15" />
 <text fill="#ffb454">
 <tspan x="15" y="30">                       __</tspan>
 <tspan x="15" y="50">                      /  /</tspan>
@@ -38,7 +38,7 @@ text, tspan {white-space: pre;}
 <text fill="#c9d1d9">
 <tspan x="360" y="30"><tspan>juic3-me@github</tspan> <tspan class="cc">————————————————————————————————————————————</tspan></tspan>
 <tspan x="360" y="50"><tspan class="key">OS</tspan>:<tspan class="cc" w="57"> ............................ </tspan><tspan class="value">Windows 11, iOS, Linux Mint</tspan></tspan>
-<tspan x="360" y="70"><tspan class="key">Uptime</tspan>:<tspan id="age_data_dots" class="cc" w="53"> ......................... </tspan><tspan id="age_data" class="value">20 years, 0 months, 0 days</tspan></tspan>
+<tspan x="360" y="70"><tspan class="key">Uptime</tspan>:<tspan id="age_data_dots" class="cc" w="53"> ........................ </tspan><tspan id="age_data" class="value">20 years, 5 months, 14 days</tspan></tspan>
 <tspan x="360" y="90"><tspan class="key">Host</tspan>:<tspan class="cc" w="55"> .......................................... </tspan><tspan class="value">AO "METEOR"</tspan></tspan>
 <tspan x="360" y="110"><tspan class="key">Location</tspan>:<tspan class="cc" w="51"> ...................................... </tspan><tspan class="value">Novosibirsk</tspan></tspan>
 <tspan x="360" y="130"><tspan class="key">IDE</tspan>:<tspan class="cc" w="56"> ....................... </tspan><tspan class="value">VSCode 1.96.0, PyCharm (latest)</tspan></tspan>
@@ -50,8 +50,8 @@ text, tspan {white-space: pre;}
 <tspan x="360" y="310"><tspan class="key">Telegram</tspan>:<tspan class="cc" w="51"> .......................................... </tspan><tspan class="value">@vulp3s</tspan></tspan>
 <tspan x="360" y="330"><tspan class="key">Discord</tspan>:<tspan class="cc" w="52"> ........................................ </tspan><tspan class="value">lisyanskiy</tspan></tspan>
 <tspan x="360" y="370"><tspan>- GitHub Stats</tspan> <tspan class="cc">—————————————————————————————————————————————</tspan></tspan>
-<tspan x="360" y="390"><tspan class="key">Repos</tspan>:<tspan id="repo_data_dots" class="cc" w="9"> ...... </tspan><tspan id="repo_data" class="value">0</tspan> {<tspan class="key">Contributed</tspan>: <tspan id="contrib_data" class="value">0</tspan>} | <tspan class="key">Stars</tspan>:<tspan id="star_data_dots" class="cc" w="18"> ............... </tspan><tspan id="star_data" class="value">0</tspan></tspan>
-<tspan x="360" y="410"><tspan class="key">Commits</tspan>:<tspan id="commit_data_dots" class="cc" w="20"> ................. </tspan><tspan id="commit_data" class="value">0</tspan> | <tspan class="key">Followers</tspan>:<tspan id="follower_data_dots" class="cc" w="19"> ................ </tspan><tspan id="follower_data" class="value">0</tspan></tspan>
-<tspan x="360" y="430"><tspan class="key">Lines of code on GitHub</tspan>:<tspan id="loc_data_dots" class="cc" w="12"> ......... </tspan><tspan id="loc_data" class="value">0</tspan> ( <tspan id="loc_add" class="addColor">0</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del" class="delColor">0</tspan><tspan class="delColor">--</tspan> )</tspan>
+<tspan x="360" y="390"><tspan class="key">Repos</tspan>:<tspan id="repo_data_dots" class="cc" w="9"> ...... </tspan><tspan id="repo_data" class="value">7</tspan> {<tspan class="key">Contributed</tspan>: <tspan id="contrib_data" class="value">0</tspan>} | <tspan class="key">Stars</tspan>:<tspan id="star_data_dots" class="cc" w="18"> ............... </tspan><tspan id="star_data" class="value">0</tspan></tspan>
+<tspan x="360" y="410"><tspan class="key">Commits</tspan>:<tspan id="commit_data_dots" class="cc" w="20"> ................ </tspan><tspan id="commit_data" class="value">46</tspan> | <tspan class="key">Followers</tspan>:<tspan id="follower_data_dots" class="cc" w="19"> ................ </tspan><tspan id="follower_data" class="value">6</tspan></tspan>
+<tspan x="360" y="430"><tspan class="key">Lines of code on GitHub</tspan>:<tspan id="loc_data_dots" class="cc" w="12"> ..... </tspan><tspan id="loc_data" class="value">8,316</tspan> ( <tspan id="loc_add" class="addColor">10,170</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del" class="delColor">1,854</tspan><tspan class="delColor">--</tspan> )</tspan>
 </text>
 </svg>
